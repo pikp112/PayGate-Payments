@@ -29,6 +29,15 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
+    "paymenthost": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/payment",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
